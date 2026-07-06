@@ -1,10 +1,13 @@
 Hey 👋 I'm Alex.
 
-I enjoy building quantitative finance tools, trading systems, and data-driven applications with a focus on performance, clean architecture, and experimentation.
+I build quantitative finance tools, trading systems, and data-driven applications with a focus on performance, clean architecture, and experimentation.
 
-📈 Quantitative trading & market research
+📈 Quantitative trading & market research 
+
 🧠 Machine learning enthusiast
+
 ⚡ Building simulations and financial models
+
 📚 Always learning and shipping new ideas
 <!--
 **AlexChow906/AlexChow906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
